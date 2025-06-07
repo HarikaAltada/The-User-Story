@@ -4,7 +4,7 @@ A modern Next.js application providing expert parenting guidance through live we
 
 ## 🚀 Live Demo
 
-**Live URL:** [https://babynama-nextjs.vercel.app](https://babynama-nextjs.vercel.app)
+**Live URL:** [https://the-user-story.vercel.app/](https://the-user-story.vercel.app/)
 
 ## ✨ Features
 
